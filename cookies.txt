@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+digitalnegociacao.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+digitalnegociacao.com	TRUE	/	FALSE	1999999999	PHPSESSID	i8u7kkr7flf0urp9l3vf8mvv72
+digitalnegociacao.com	TRUE	/	FALSE	1999999999	password	deleted
+digitalnegociacao.com	TRUE	/	FALSE	1999999999	password2	deleted
+
